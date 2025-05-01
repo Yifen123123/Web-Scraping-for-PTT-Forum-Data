@@ -1,5 +1,7 @@
 # PTT Stock Forum Web Scraping Project
 
+##Python版本：Python 3.13.0
+
 ## 專案簡介
 
 本專案透過 Python 實現網頁爬蟲，抓取 PTT Stock 版的文章標題，並進行資料分析與視覺化。
