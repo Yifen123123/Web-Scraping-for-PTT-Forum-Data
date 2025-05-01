@@ -1,6 +1,6 @@
 # PTT Stock Forum Web Scraping Project
 
-##Python版本：Python 3.13.0
+## Python版本：Python 3.13.0
 
 ## 專案簡介
 
